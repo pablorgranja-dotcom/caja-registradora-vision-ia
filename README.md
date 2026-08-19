@@ -3,7 +3,7 @@
 Este proyecto implementa un sistema de punto de venta (POS) automatizado capaz de reconocer 7 productos de supermercado en tiempo real utilizando cámaras web y Redes Neuronales Convolucionales (CNN) con **Transfer Learning**.
 
 ## Demostración
-*(Inserta aquí un GIF o captura de la pantalla del escáner en vivo y la interfaz de Gradio)*
+*(https://drive.google.com/drive/folders/1Aj0uZQCNvkpDEoOUFkQLsLU3zy7bFMDa?usp=sharing)*
 
 ## Características
 * **Reconocimiento en tiempo real:** Detección frame por frame con superposición de precios y porcentaje de confianza.
@@ -29,4 +29,4 @@ Este proyecto implementa un sistema de punto de venta (POS) automatizado capaz d
 
 ## Dataset
 El dataset contiene fotografías tomadas manualmente organizadas por categorías. 
-* *Nota:* Puede acceder al conjunto de imágenes de entrenamiento en este [Enlace a Google Drive](https://drive.google.com/drive/folders/1W_-IwRmWlyT8vmCjPC_q0miJzHAj8ILT?usp=drive_link).
+* *Nota:* Puede acceder al conjunto de imágenes de entrenamiento en este [Enlace a Google Drive](https://drive.google.com/drive/folders/1W_-IwRmWlyT8vmCjPC_q0miJzHAj8ILT?usp=sharing).
