@@ -30,10 +30,11 @@ En caso de requerir la ejecución en un entorno local:
    ```bash
    git clone [https://github.com/pablorgranja-dotcom/caja-registradora-vision-ia/blob/main/README.md](https://github.com/pablorgranja-dotcom/caja-registradora-vision-ia/blob/main/README.md)
    cd caja-registradora-vision-ia
-Instalación de Dependencias:
+
+##Instalación de Dependencias:
 install tensorflow opencv-python numpy gradio matplotlib seaborn
 
-Ejecución del Código:
+##Ejecución del Código:
 Abrir Detector_Supermercado.ipynb desde Jupyter Notebook o VS Code y ejecutar las celdas en orden secuencial. 
 
 Características Principales
