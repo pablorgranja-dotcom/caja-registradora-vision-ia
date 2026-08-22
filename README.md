@@ -20,12 +20,12 @@ Este proyecto se encuentra diseñado para ejecutarse de forma sencilla y directa
    * **Punto de Venta (Gradio):** Acceder a la celda de la interfaz interactiva para realizar pruebas con imágenes o cámara web y generar el ticket acumulativo.
    * **Escáner en VIVO:** En la última celda, otorgar los permisos de acceso a la cámara en el navegador para activar la transmisión en tiempo real. Para finalizar la captura, presionar el botón **🔴 APAGAR CÁMARA** o interrumpir la ejecución de la celda.
   
-<img width="732" height="366" alt="Subir imagen 2" src="https://github.com/user-attachments/assets/6f4415e9-a1d1-4ca8-9d0d-986bb18b65ef" />
-<img width="732" height="366" alt="Subir imagen 1" src="https://github.com/user-attachments/assets/02b400b0-0552-457d-afb7-589891171c17" />
-<img width="732" height="366" alt="Identificar en vivo 4" src="https://github.com/user-attachments/assets/cac42af8-c903-49a1-a5da-678ace56683c" />
-<img width="732" height="366" alt="Identificar en vivo 3" src="https://github.com/user-attachments/assets/016ed9da-1b80-4f87-a2fa-94148dbb0a51" />
-<img width="732" height="366" alt="Identificar en vivo 2" src="https://github.com/user-attachments/assets/4a49f346-52e5-4a46-b780-55384ae77353" />
-<img width="732" height="366" alt="Identificar en vivo 1" src="https://github.com/user-attachments/assets/f1461672-1895-41f4-ac83-0d5979344749" />
+<img width="532" height="166" alt="Subir imagen 2" src="https://github.com/user-attachments/assets/6f4415e9-a1d1-4ca8-9d0d-986bb18b65ef" />
+<img width="532" height="166" alt="Subir imagen 1" src="https://github.com/user-attachments/assets/02b400b0-0552-457d-afb7-589891171c17" />
+<img width="532" height="166" alt="Identificar en vivo 4" src="https://github.com/user-attachments/assets/cac42af8-c903-49a1-a5da-678ace56683c" />
+<img width="532" height="166" alt="Identificar en vivo 3" src="https://github.com/user-attachments/assets/016ed9da-1b80-4f87-a2fa-94148dbb0a51" />
+<img width="532" height="166" alt="Identificar en vivo 2" src="https://github.com/user-attachments/assets/4a49f346-52e5-4a46-b780-55384ae77353" />
+<img width="532" height="166" alt="Identificar en vivo 1" src="https://github.com/user-attachments/assets/f1461672-1895-41f4-ac83-0d5979344749" />
 
 ---
 
